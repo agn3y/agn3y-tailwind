@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+html {
+    scroll-behavior: smooth;
+}
+
+.main-bg {
+    background-color:  hsl(218, 28%, 13%);
+}
+
+.btn-bg{
+    background-color: hsl(198, 60%, 50%);
+}
+
+.test-bg {
+    background-color: hsl(219, 30%, 18%);
+}
+
+.footer-bg {
+    background-color: hsl(216, 53%, 9%);
+}
+
+.btn-color {
+    color: hsl(198, 60%, 50%);     
+}
+
+.font-Railway {
+    font-family: "Raleway", serif;
+}
+
+.width480 {
+    max-width: 480px;
+}
